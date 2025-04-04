@@ -1,0 +1,4 @@
+2025-04-04 08:30:13.106365 - Received CBT.V508.FILE362.PDS from FILE362.XMI 
+2025-04-04 08:30:13.106936 - Found CXYPSCAN.bin (application/octet-stream) in CBT.V508.FILE362.PDS, moved to PDS/CXYPSCAN
+2025-04-04 08:30:13.107116 - Found TAPESCAN.bin (application/octet-stream) in CBT.V508.FILE362.PDS, moved to PDS/TAPESCAN
+2025-04-04 08:30:13.107263 - Found ZZRELINK.bin (application/octet-stream) in CBT.V508.FILE362.PDS, moved to PDS/ZZRELINK
